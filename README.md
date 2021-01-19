@@ -1,6 +1,9 @@
 # assignment
 App Name :Mango
 
+IMPORTANT USAGE INSTRUCTION: Close/Kill the app using the back button only, not the home key to refresh the app. 
+Resolving this as soon as possible
+
 
 Uses glide library for image retrival and many other libraries for other purposes like array to json conversion and storing it in Shared preferences. The colors of the application give a comfortable feel and look for a food app.
 
