@@ -190,7 +190,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
         queue.add(request);
-        SharedPreferences prefs=getSharedPreferences("prefs",MODE_PRIVATE);
+        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
         SharedPreferences.Editor editor=prefs.edit();
         editor.putBoolean("firststart",false);
         editor.apply();
