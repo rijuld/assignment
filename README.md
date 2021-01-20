@@ -1,6 +1,7 @@
 # assignment
 App Name :Mango
 
+USAGE NOTE: Use back button to exit the application.
 
 Uses glide library for image retrival and many other libraries for other purposes like array to json conversion and storing it in Shared preferences. The colors of the application give a comfortable feel and look for a food app.
 
